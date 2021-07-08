@@ -1,1 +1,2 @@
-name.conf="test conf"
+name:
+  conf: "test conf"
